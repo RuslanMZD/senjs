@@ -1,0 +1,13 @@
+Webpack
+    Babel
+    Scss
+    Eslint поддерживать код в чистом виде
+    2 Modes
+        -Dev
+         Dev server, SourceMaps, Eslint, Not Minified JS & CSS
+        -Prod
+         Minified Code
+ Git
+    Production
+
+    Development
